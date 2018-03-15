@@ -1,4 +1,7 @@
 /* Colors */
+.nebula-white{
+	color: white;
+}
 .nebula-dk-blue{
 	color: #03013A;
 }
@@ -8,20 +11,59 @@
 .nebula-blue{
 	color: #312783;
 }
+.nebula-bg-dk{
+	background-color: #1B1464;
+}
+.nebula-bg-blue{
+	background-color: #2E3192;
+}
+.nebula-bg-gray{
+	background-color: #464846;
+}
 
 /* Margins & Paddings */
 .nebula-mt{
 	margin-top: 3em;
 }
+.nebula-mb-extreme{
+	margin-bottom: 13em;
+}
+.nebula-mt-big{
+	margin-top: 5em;
+}
 .nebula-mt-small{
 	margin-top: 1em;
 }
-
+.nebula-ml-big{
+	margin-left: 6em;
+}
+.nebula-mr-big{
+	margin-right: 6em;
+}
+.nebula-ml{
+	margin-left: 1em;
+}
+.nebula-mr{
+	margin-right: 1em;
+}
 .nebula-p{
 	padding: 1em;
 }
+.nebula-p-big{
+	padding: 3em;
+}
+.nebula-p-extreme{
+	padding: 10em;
+}
 
 /* Borders */
+.nebula-link{
+	text-decoration: none;
+}
+.nebula-link:hover {
+    text-decoration: none;
+    color: white;
+}
 .nebula-bb{
 	border-bottom: 1px solid black;
 }
