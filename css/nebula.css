@@ -1,0 +1,51 @@
+/* Colors */
+.nebula-dk-blue{
+	color: #03013A;
+}
+.nebula-lt-blue{
+	color: #BED3ED;
+}
+.nebula-blue{
+	color: #312783;
+}
+
+/* Margins & Paddings */
+.nebula-mt{
+	margin-top: 3em;
+}
+.nebula-mt-small{
+	margin-top: 1em;
+}
+
+.nebula-p{
+	padding: 1em;
+}
+
+/* Borders */
+.nebula-bb{
+	border-bottom: 1px solid black;
+}
+.nebula-b-large{
+	border-width: 5px;
+}
+.nebula-b-light{
+	border-color: #BED3ED;
+}
+/* Content */
+.nebula-navbar{
+	border-bottom: 2px solid #464846;
+	margin-bottom: 3em;
+}
+
+.nebula-nav-item{
+	font-weight: bold;
+	color: #464846;	
+}
+
+.nebula-dark{
+	background-color: #464846;
+}
+
+.nebula-title-white{
+	color: white;
+}
