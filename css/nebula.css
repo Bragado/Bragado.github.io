@@ -1,0 +1,26 @@
+
+.nebula-mt{
+	margin-top: 3em;
+}
+
+.nebula-p{
+	padding: 1em;
+}
+
+.nebula-navbar{
+	border-bottom: 2px solid #464846;
+	margin-bottom: 3em;
+}
+
+.nebula-nav-item{
+	font-weight: bold;
+	color: #464846;	
+}
+
+.nebula-dark{
+	background-color: #464846;
+}
+
+.nebula-title-white{
+	color: white;
+}
