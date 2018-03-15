@@ -95,6 +95,13 @@
 .nebula-b-light{
 	border-color: #BED3ED;
 }
+.nebula-separator{
+	background-color: #BED3ED;
+    background-repeat: repeat-x;
+    width: 25%;
+    height: 5px;
+}
+
 /* Content */
 .nebula-navbar{
 	border-bottom: 2px solid #464846;
@@ -115,4 +122,9 @@
 }
 .nebula-footer-title{
 	display: inline;
+}
+
+
+@media (min-width: 576px) {
+
 }
