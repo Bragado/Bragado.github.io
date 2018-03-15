@@ -28,11 +28,20 @@
 .nebula-mt{
 	margin-top: 3em;
 }
+.nebula-mb-small{
+	margin-bottom: 1em;
+}
 .nebula-mb-extreme{
 	margin-bottom: 13em;
 }
 .nebula-mt-extreme{
 	margin-top: 13em;
+}
+.nebula-ml-extreme{
+	margin-left: 13em;
+}
+.nebula-mr-extreme{
+	margin-right: 13em;
 }
 .nebula-mt-big{
 	margin-top: 5em;
@@ -46,11 +55,17 @@
 .nebula-mr-big{
 	margin-right: 6em;
 }
-.nebula-ml{
+.nebula-ml-small{
 	margin-left: 1em;
 }
-.nebula-mr{
+.nebula-mr-small{
 	margin-right: 1em;
+}
+.nebula-ml{
+	margin-left: 3em;
+}
+.nebula-mr{
+	margin-right: 3em;
 }
 .nebula-p{
 	padding: 1em;
