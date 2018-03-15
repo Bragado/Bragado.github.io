@@ -11,6 +11,9 @@
 .nebula-blue{
 	color: #312783;
 }
+.nebula-bg{
+	background-color: #312783;
+}
 .nebula-bg-dk{
 	background-color: #1B1464;
 }
@@ -27,6 +30,9 @@
 }
 .nebula-mb-extreme{
 	margin-bottom: 13em;
+}
+.nebula-mt-extreme{
+	margin-top: 13em;
 }
 .nebula-mt-big{
 	margin-top: 5em;
@@ -48,6 +54,7 @@
 }
 .nebula-p{
 	padding: 1em;
+	margin-bottom: 0;
 }
 .nebula-p-big{
 	padding: 3em;
@@ -90,4 +97,7 @@
 
 .nebula-title-white{
 	color: white;
+}
+.nebula-footer-title{
+	display: inline;
 }
