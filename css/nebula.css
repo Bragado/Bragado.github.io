@@ -124,7 +124,14 @@
 	display: inline;
 }
 
-
+.nebula-justify{
+	text-align: justify;
+}
+.nebula-bold{
+	font-weight: bold;
+}
+/*
 @media (min-width: 576px) {
 
 }
+*/
