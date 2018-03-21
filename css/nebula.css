@@ -130,6 +130,18 @@
 .nebula-bold{
 	font-weight: bold;
 }
+.nebula-truncate{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 18em;
+  height: 13em;
+}
+
+.nebula-truncate- {
+  height: 3.6em; /* exactly three lines */
+  text-overflow: -o-ellipsis-lastline;
+}
 /*
 @media (min-width: 576px) {
 
