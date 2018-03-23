@@ -1,5 +1,5 @@
 *{
-	font-family: Verdana;
+	font-family: 'Roboto', sans-serif;
 }
 /* Colors */
 .nebula-white{
@@ -152,13 +152,19 @@
 	width: 40px;
 }
 .nebula-footer-title *{
-	font-size: .9em;
+	font-size: 1em;
 }
 
 .nebula-invis{
 	display: none;
 }
 
+
+@media(max-width: 992px){
+	.nebula-p-extreme{
+		padding: 2em;
+	}
+}
 
 @media (min-width: 576px) {
 	.nebula-mobile-logo{
