@@ -162,16 +162,19 @@
 	display: none;
 }
 
-/*
+
 @media (min-width: 576px) {
-	*{
-		font-size: 2rem;
+	.nebula-mobile-logo{
+		width: 400px;
 	}
 }
-*/
+
 @media (min-width: 992px) {
 	.nebula-invis{
 		display: initial;
+	}
+	.nebula-mobile-logo{
+		width: auto;
 	}
 }
 
