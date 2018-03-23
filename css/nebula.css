@@ -29,7 +29,7 @@
 
 /* Margins & Paddings */
 .nebula-mt{
-	margin-top: 3em;
+	margin-top: 2.65em!important;
 }
 .nebula-mb-small{
 	margin-bottom: 1em;
@@ -153,16 +153,19 @@
 	font-size: .8em;
 }
 
+.nebula-invis{
+	display: none;
+}
+
 /*
 @media (min-width: 576px) {
 	*{
 		font-size: 2rem;
 	}
 }
-
+*/
 @media (min-width: 992px) {
-	*{
-		font-size: 1rem;
+	.nebula-invis{
+		display: initial;
 	}
 }
-*/
