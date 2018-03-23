@@ -82,9 +82,6 @@
 .nebula-p-big{
 	padding: 3em;
 }
-.nebula-p-extreme{
-	padding: 10em;
-}
 
 /* Borders */
 .nebula-link{
@@ -175,6 +172,9 @@
 	}
 	.nebula-mobile-logo{
 		width: auto;
+	}
+	.nebula-p-extreme{
+		padding: 10em;
 	}
 }
 
