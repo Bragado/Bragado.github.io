@@ -34,7 +34,17 @@
 .nebula-mb-small{
 	margin-bottom: 1em;
 }
+.nebula-mb-5{
+	margin-bottom: 5em;
+}
 
+.nebula-mb-7{
+	margin-bottom: 7em;
+}
+
+.nebula-mb-6{
+	margin-bottom: 6em;
+}
 .nebula-mb-big{
 	margin-bottom: 8em;
 }
@@ -158,7 +168,13 @@
 .nebula-invis{
 	display: none;
 }
-
+.nebula-to-page{
+	position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-bottom: 2em;
+    margin-right: 2em;
+}
 
 @media(max-width: 992px){
 	.nebula-p-extreme{
@@ -183,7 +199,6 @@
 		padding: 10em;
 	}
 }
-
 
 
 
@@ -233,7 +248,7 @@
 
 
 
-.multiline-ellipsis {
+.multiline-ellipsis- {
     display: block;
     display: -webkit-box;
     /*max-width: 400px;*/
